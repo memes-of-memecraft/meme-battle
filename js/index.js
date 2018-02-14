@@ -3,7 +3,7 @@ var app = new Vue({
   data: {
      userPokemonSrc: ["https://media1.tenor.com/images/8fbda6a13aee444e0397f07541d1f98e/tenor.gif","https://media.giphy.com/media/DlK2z5qILD0fC/giphy.gif","https://media1.tenor.com/images/65bc3ade1032d7a5a60349109c3a9823/tenor.gif?itemid=4981760","https://m.popkey.co/b8b56f/OXo8L_s-200x150.gif","https://thumbs.gfycat.com/GrandioseEvenAustraliansilkyterrier-max-1mb.gif"]
     ,
-     opponentPokemonSrc: ["http://i.4cdn.org/pol/1517584242945.gif?__cf_waf_tk__=053030002qrc4pSwqP3r-bExp5JqpEFFP8WY","http://i0.kym-cdn.com/photos/images/newsfeed/001/319/078/964.gif","https://i.warosu.org/data/biz/img/0033/93/1504888648684.gif","https://www.wykop.pl/cdn/c3201142/comment_1HGoMmreTs5EcnlnIdsvE2GdV017zJkx.gif","http://i.4cdn.org/biz/1517776211297.gif?__cf_waf_tk__=117933002ICfD8FBHchs8vQ7w4rTATBGcv7Q"],
+     opponentPokemonSrc: ["http://i.imgur.com/3edncyi.gif","http://i0.kym-cdn.com/photos/images/newsfeed/001/319/078/964.gif","https://i.warosu.org/data/biz/img/0033/93/1504888648684.gif","https://www.wykop.pl/cdn/c3201142/comment_1HGoMmreTs5EcnlnIdsvE2GdV017zJkx.gif","http://i.4cdn.org/biz/1517776211297.gif?__cf_waf_tk__=117933002ICfD8FBHchs8vQ7w4rTATBGcv7Q"],
      userPokemon: "Doge",
      opponentPokemon: "Pink Wojak",
      userAlive: true,
